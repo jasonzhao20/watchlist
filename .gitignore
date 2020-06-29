@@ -5,3 +5,4 @@ __pycache__
 watchlist-env
 .env
 .vscode
+*.db
